@@ -1,7 +1,5 @@
 package com.example.course_manag.security;
 
-
-
 import com.example.course_manag.repository.UserRepository;
 import com.example.course_manag.dao.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
